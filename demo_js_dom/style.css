@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.night{
+    background-color: #000;
+    color: yellow;
+}
+
+.impreso {
+    background-color: beige;
+}
